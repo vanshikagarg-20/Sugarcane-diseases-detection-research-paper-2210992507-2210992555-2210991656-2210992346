@@ -202,7 +202,7 @@ sugarcane-disease-detection/
 
 <p>
 📎 <b>View Full Abstract:</b><br>
-<a href="Report&PPT/Abstract.docx">Open Abstract Document</a>
+<a href="Report&PPT/Abstract_Integrative Analysis and Detection of Sugarcane Leaf Diseases Using Advanced Machine Learning and Image Processing Techniques.docx">Open Abstract Document</a>
 </p>
 
 <p><b>Summary:</b></p>
