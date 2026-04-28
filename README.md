@@ -1,5 +1,5 @@
 <a id="top"></a>
-![banner](Documentations/banner.png)
+![banner](Report&PPT/banner.png)
 
 This project implements an AI-based system for detecting sugarcane leaf diseases using deep learning and image processing techniques. It is inspired by a research approach combining CNNs, data augmentation, and feature extraction.
 
